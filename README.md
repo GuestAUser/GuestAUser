@@ -32,7 +32,7 @@ $ cat profile.txt
 
 Profile loaded successfully
 ├── Name: GuestAUser
-├── Role: Security Analyst | Ethical Hacker
+├── Role: Security Enthusiast | Ethical Hacker
 ├── Specialization: Low-level systems programming
 ├── Research: Vulnerability assessment & kernel development
 └── Current focus: C/C++/Rust development & security research
