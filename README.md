@@ -1,6 +1,6 @@
 # 🔐 Security Research & Development
 
-```
+```ruby
 ┌─┐┬ ┬┌─┐┌─┐┌┬┐┌─┐┬ ┬┌─┐┌─┐┬─┐
 │ ┬│ │├┤ └─┐ │ ├─┤│ │└─┐├┤ ├┬┘
 └─┘└─┘└─┘└─┘ ┴ ┴ ┴└─┘└─┘└─┘┴└─
@@ -12,7 +12,7 @@
 
 </div>
 
-```ascii
+```ruby
     ╔═══════════════════════════════════════╗
     ║           PROFILE OVERVIEW            ║
     ╠═══════════════════════════════════════╣
@@ -26,7 +26,7 @@
 
 ## 🖥️ **./about**
 
-```bash
+```ruby
 $ cat profile.txt
 [████████████████████████████████] 100%
 
@@ -55,7 +55,7 @@ Profile loaded successfully
 
 </div>
 
-```
+```ruby
 Systems Programming  ████████████████████  95%
 Security Analysis    ██████████████████░░  90%
 Kernel Development   ██████████████░░░░░░  75%
@@ -81,7 +81,7 @@ Problem Solving      ███████████████████�
 
 ## 🔄 **./recent_commits**
 
-```bash
+```ruby
 $ git log --oneline -5
 a1b2c3d Security: Fixed buffer overflow vulnerability in legacy system
 e4f5g6h Game Dev: Optimized memory management in fogBound engine
@@ -103,7 +103,7 @@ q4r5s6t Analysis: Completed penetration testing of authentication module
 
 <div align="center">
 
-```
+```ruby
 Professional Networking
 [████████████████████████████████] Ready
 ```
@@ -117,7 +117,7 @@ Professional Networking
 
 ## 🔒 **./private_repos**
 
-```
+```ruby
 Private repositories and research
 └── Professional security assessments
 └── Client vulnerability research
@@ -128,7 +128,7 @@ Private repositories and research
 
 <div align="center">
 
-```
+```ruby
 ┌──────────────────────────────────────────────┐
 │            "There's always a way"            │
 └──────────────────────────────────────────────┘
