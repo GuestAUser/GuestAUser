@@ -19,7 +19,7 @@
     ║ Role: Security Analyst                ║
     ║ Focus: Low-Level Development          ║
     ║ Specialty: Vulnerability Research     ║
-    ║ Languages: C/C++, Rust, Python       ║
+    ║ Languages: C/C++, Rust, Python        ║
     ║ Environment: Linux/Unix Systems       ║
     ╚═══════════════════════════════════════╝
 ```
