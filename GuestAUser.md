@@ -1,10 +1,12 @@
 # 🔐 Security Research & Development
 
+<div align="center">
 ```
 ┌─┐┬ ┬┌─┐┌─┐┌┬┐┌─┐┬ ┬┌─┐┌─┐┬─┐
 │ ┬│ │├┤ └─┐ │ ├─┤│ │└─┐├┤ ├┬┘
 └─┘└─┘└─┘└─┘ ┴ ┴ ┴└─┘└─┘└─┘┴└─
 ```
+</div>
 
 <div align="center">
 
@@ -12,6 +14,7 @@
 
 </div>
 
+<div align="center">
 ```ascii
     ╔═══════════════════════════════════════╗
     ║           PROFILE OVERVIEW            ║
@@ -37,6 +40,7 @@ Profile loaded successfully
 ├── Research: Vulnerability assessment & kernel development
 └── Current focus: C/C++/Rust development & security research
 ```
+</div>
 
 ## ⚡ **./skills --list**
 
