@@ -16,7 +16,7 @@
     ╔═══════════════════════════════════════╗
     ║           PROFILE OVERVIEW            ║
     ╠═══════════════════════════════════════╣
-    ║ Role: Security Analyst                ║
+    ║ Role: Full-Stack Developer            ║
     ║ Focus: Low-Level Development          ║
     ║ Specialty: Vulnerability Research     ║
     ║ Languages: C/C++, Rust, Python        ║
