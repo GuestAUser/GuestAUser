@@ -129,9 +129,9 @@ Private repositories and research
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────┐
-│ "Security through understanding and testing" │
-└─────────────────────────────────────────────┘
+┌──────────────────────────────────────────────┐
+│            "There's always a way"            │
+└──────────────────────────────────────────────┘
 ```
 
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
