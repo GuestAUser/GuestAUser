@@ -54,7 +54,7 @@ Profile loaded successfully
 ![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
-
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41)
 </div>
 
 ```ruby
