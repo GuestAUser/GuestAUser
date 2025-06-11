@@ -6,11 +6,11 @@
 └─┘└─┘└─┘└─┘ ┴ ┴ ┴└─┘└─┘└─┘┴└─
 ```
 
-**PROFILE VIEWS:** ![Profile Views](https://komarev.com/ghpvc/?username=GuestAUser&color=00ff41&style=flat-square&label=VISITORS)
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Security+Analyst;Ethical+Hacker;Low-Level+Developer;Systems+Security+Researcher)](https://git.io/typing-svg)
+
+**PROFILE VIEWS:** ![Profile Views](https://komarev.com/ghpvc/?username=GuestAUser&color=00ff41&style=flat-square&label=VISITORS)
 
 </div>
 
