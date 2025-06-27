@@ -15,15 +15,15 @@
 </div>
 
 ```ruby
-    ╔═══════════════════════════════════════╗
-    ║           PROFILE OVERVIEW            ║
-    ╠═══════════════════════════════════════╣
-    ║ Role: Full-Stack Developer            ║
-    ║ Focus: Low-Level Development          ║
-    ║ Specialty: Vulnerability Research     ║
-    ║ Languages: C/C++, Rust, Python        ║
-    ║ Environment: Linux/Unix Systems       ║
-    ╚═══════════════════════════════════════╝
+    ╔════════════════════════════════════════════════════════════╗
+    ║                      PROFILE OVERVIEW                      ║
+    ╠════════════════════════════════════════════════════════════╣
+    ║ Role: Full-Stack Developer                                 ║
+    ║ Focus: Low-Level Development                               ║
+    ║ Specialty: Vulnerability Research                          ║
+    ║ Languages: C/C++, Rust, Python, GO, PHP, nodejs/deno, Ruby ║
+    ║ Environment: Linux/Unix Systems                            ║
+    ╚════════════════════════════════════════════════════════════╝
 ```
 
 ## 🖥️ **./about**
