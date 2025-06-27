@@ -37,7 +37,7 @@ Profile loaded successfully
 ├── Role: Security Enthusiast | Ethical Hacker
 ├── Specialization: Low-level systems programming
 ├── Research: Vulnerability assessment & kernel development
-└── Current focus: C/C++/Rust development & security research
+└── Current focus: Development of enterprise level security tools
 ```
 
 ## ⚡ **./skills --list**
