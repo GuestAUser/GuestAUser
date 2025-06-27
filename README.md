@@ -20,7 +20,7 @@
     ╠════════════════════════════════════════════════════════════╣
     ║ Role: Full-Stack Developer                                 ║
     ║ Focus: Low-Level Development                               ║
-    ║ Specialty: Vulnerability Research                          ║
+    ║ Specialty: Vulnerability Research, Fullstack Development   ║
     ║ Languages: C/C++, Rust, Python, GO, PHP, nodejs/deno, Ruby ║
     ║ Environment: Linux/Unix Systems                            ║
     ╚════════════════════════════════════════════════════════════╝
