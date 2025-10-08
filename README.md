@@ -69,8 +69,6 @@ Problem Solving      ███████████████████�
 
 <div align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=GuestAUser&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=00FF41"/>
-
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GuestAUser&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
 
 </div>
