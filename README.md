@@ -65,14 +65,6 @@ Vulnerability Research ████████████████░░░
 Problem Solving      ████████████████████  100%
 ```
 
-## 📊 **./stats**
-
-<div align="center">
-
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuestAUser&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41"/>
-
-</div>
-
 ## 🔄 **./recent_commits**
 
 ```ruby
