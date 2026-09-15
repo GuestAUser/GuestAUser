@@ -9,7 +9,7 @@
 
   <br><br>
 
-  <p>I work on <strong>AMD systems</strong> <strong>FreeBSD PMU team</strong>.</p>
+  <p>I work on the <strong>AMD systems</strong> <strong>FreeBSD PMU team</strong>.</p>
 
   <img src="https://komarev.com/ghpvc/?username=GuestAUser&amp;color=707070&amp;style=flat-square&amp;label=VISITORS" alt="Profile visitors">
 
